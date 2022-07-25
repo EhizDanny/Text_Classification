@@ -1,3 +1,4 @@
 # Text_Classification
 ![image](https://user-images.githubusercontent.com/90690026/180872612-fbce1b5f-9501-4e25-aa84-1860cb65d21f.png)
-Often times, it is important to
+Sentiment analysis and Text classification is a widely popular machine learning standard that is utilized in many different applications, including movie suggestions and recommendations, product predictions, and many more. Currently, exploring this area has become crucial for any machine learner. As such this project shows how a Sentiments can be built from public comments, classified into varying themes, and a model which predicts the theme or class of a comment.<br>
+While this is to show ability, I am currently working on another project of similar nature, where i will be scraping public comment from an e-commerce store, and conducting sentiment analysis and comment classification on it. Prescriptions will be reported to the organisation as a show of good will.
