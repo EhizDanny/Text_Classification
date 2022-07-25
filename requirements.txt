@@ -1,0 +1,12 @@
+snscrape
+pandas
+git+https://github.com/huggingface/transformers.git 
+--quiet gradio
+plotly
+sklearn
+matplotlib
+numpy
+import re
+textblob
+neattext
+wordcloud
